@@ -1,3 +1,3 @@
 # invest
 
-responsive dashboard 
+responsive dashboard built with HTML, CSS &JS
